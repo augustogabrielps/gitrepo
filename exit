@@ -1,0 +1,52 @@
+[33mcommit dd1f0f3f75301dfa617e0dac30e5d4bd3a94eb04[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: abeb04c c2f9d97
+Author: Augusto Santos <augustogpsantos>
+Date:   Tue Jun 11 21:04:03 2024 -0300
+
+    Merge branch 'develop'
+
+[33mcommit abeb04c74c9c13165606b98a049a0f84073457fc[m
+Author: Augusto Santos <augustogpsantos>
+Date:   Tue Jun 11 21:01:08 2024 -0300
+
+    Tradução 2
+
+[33mcommit c2f9d977542aad2a1ab5c403083b4ffa3521ceb7[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: Augusto Santos <augustogpsantos>
+Date:   Tue Jun 11 20:56:20 2024 -0300
+
+    Tradução
+
+[33mcommit 712046204f7ae100def257f132071f81f88529fb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/TASK10[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Augusto Santos <160292228+augustogabrielps@users.noreply.github.com>
+Date:   Mon Jun 10 20:27:06 2024 -0300
+
+    Update main.html
+    
+    Melhora de título
+
+[33mcommit 6680619c8ef4ca999b8d4d9996dda444226adf92[m
+Author: Augusto Santos <160292228+augustogabrielps@users.noreply.github.com>
+Date:   Mon Jun 10 20:18:28 2024 -0300
+
+    Update main.html
+    
+    Atualização título
+
+[33mcommit d27a9f45fcb92547fb9272669b4d148e5d6af580[m
+Author: Augusto Santos <augustogpsantos>
+Date:   Mon Jun 10 20:16:42 2024 -0300
+
+    adicionando main.html
+
+[33mcommit 2be75aad9dc6d22c74ba435af98cf16d56216222[m
+Author: Augusto Santos <augustogpsantos>
+Date:   Mon Jun 10 19:47:53 2024 -0300
+
+    versao inicial do site
+
+[33mcommit b826d5a73ee8178fe63c7ec1f4364564f8571d2d[m
+Author: Augusto Santos <160292228+augustogabrielps@users.noreply.github.com>
+Date:   Mon Jun 10 19:29:22 2024 -0300
+
+    Create main.txt
